@@ -1,0 +1,11 @@
+#omio_news_newsticker {
+width:180px;
+background:#FFFFFF;
+padding:5px 5px 0;
+font-family:Verdana,Arial,Sans-Serif;
+font-size:12px;
+margin:5px auto;
+}
+
+.omio_news_carousel { width: 180px; }
+.omio_news_carousel ul li{ list-style:none; display:block; padding-bottom:1px; margin-bottom:5px; border-bottom:1px dotted lightgrey;}
